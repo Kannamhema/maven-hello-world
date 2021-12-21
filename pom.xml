@@ -12,6 +12,11 @@
       <!-- This property will be set by the Maven Dependency plugin -->
       <annotatedJdk>${org.checkerframework:jdk8:jar}</annotatedJdk>
   </properties>
+        <!-- Optional URL to server. Default value is http://localhost:9000 -->
+        <sonar.host.url>
+             http://44.199.206.249:9000/
+         </sonar.host.url>
+         <sonar.login>a968ca0a3ea2cca59925750e4800bc58dc0eba3a</sonar.login>
 
   <dependencies>
     <dependency>

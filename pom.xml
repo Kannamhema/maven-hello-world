@@ -51,7 +51,7 @@
                 <sonar.host.url>
                     http://3.208.89.156:9000/
                 </sonar.host.url>
-                <sonar.login>a968ca0a3ea2cca59925750e4800bc58dc0eba3a</sonar.login>				
+                <sonar.login>ffcb5f8c7d96b20147f0ec01aad1dbac18b74c91</sonar.login>				
             </properties>
         </profile>
         <profile>
